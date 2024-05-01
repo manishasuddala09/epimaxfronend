@@ -1,0 +1,24 @@
+.getStarted-bg{
+    background-image: url("https://img.freepik.com/premium-vector/internet-connection-with-neon-effect-technology-background-digital-science-technology-concept_71208-220.jpg?w=740");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 40px;
+}
+
+.heading{
+    color: #ffffff;
+    font-size: 32px;
+    font-family: roboto;
+}
+
+.get-started-btn{
+    height: 38px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: #ffffff;
+}
